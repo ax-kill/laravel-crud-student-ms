@@ -90,7 +90,6 @@
                                 <a href="{{ route('admin.delete.student',$student->id) }}" class="btn btn-danger">Delete</a>
                             </td>
                             </tr>
-                            div.footer
                             @endforeach
                           </tbody>
                     </thead>
